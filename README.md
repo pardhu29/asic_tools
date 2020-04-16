@@ -4,10 +4,11 @@ Opensource ASIC tools from RTL to GDSII
 
 Steps to install:
 1) sudo apt-get install git
-2) git clone https://github.com/pardhu29/asic_tools.git
-3) cd asic_tools
-4) chmod 777 tool_install.sh
-5) sudo ./tool_install.sh 
+2) cd
+3) git clone https://github.com/pardhu29/asic_tools.git
+4) cd asic_tools
+5) chmod 777 tool_install.sh
+6) sudo ./tool_install.sh 
 
 List of Tools installed:
 1) Yosys - RTL Synthesis
